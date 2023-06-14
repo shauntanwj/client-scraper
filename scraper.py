@@ -248,10 +248,6 @@ class Browser:
 
 if __name__ == '__main__':
 
-    id="3038217"
-    # id = "1002556"
-    pw="4567Shaun"
-
     fields = ["No", "Name with Title", "Name", "Residence No", "Business Tel No", "Mobile Tel No", "Email", "Correspondence Addr", "Residential Addr", "Business Addr"]
     filename = "clients_information.csv"
 
